@@ -14,9 +14,13 @@
     "@remix-run/node": "^2.13.1",
     "@remix-run/react": "^2.13.1",
     "@remix-run/serve": "^2.13.1",
+    "@supabase/auth-helpers-remix": "^0.4.0",
+    "@supabase/supabase-js": "^2.46.1",
+    "@vercel/remix": "^2.13.1",
     "isbot": "^4.1.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "supabase": "^1.219.2"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.13.1",
